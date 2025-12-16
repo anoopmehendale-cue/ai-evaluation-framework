@@ -1,4 +1,22 @@
-# Comprehensive Framework for Evaluating AI Systems
+# AI Systems: Design & Evaluation Frameworks
+
+This repository contains two comprehensive frameworks for building successful AI systems:
+
+## 📊 [AI Evaluation Framework](README.md)
+How to evaluate AI systems before and after deployment
+- **[Full Documentation](README.md)** - Comprehensive evaluation guide
+- **[Wiki](wiki/Home.md)** - Quick reference pages
+- **Focus:** Measuring success, defining metrics, continuous improvement
+
+## 🏗️ [Compound AI Systems Framework](README_COMPOUND_AI_SYSTEMS.md)
+How to design and build multi-agent AI systems
+- **[Full Documentation](README_COMPOUND_AI_SYSTEMS.md)** - Complete implementation guide
+- **[Wiki](wiki-compound/Compound-AI-Home.md)** - Step-by-step learning pages
+- **Focus:** Architecture patterns, agent design, orchestration
+
+---
+
+# AI Evaluation Framework
 
 ## Introduction
 
